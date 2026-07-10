@@ -1,5 +1,17 @@
 ## Hi there 👋
+ **¡Hola!** 
 
+ 
+
+Mi nombre es **María Luz Mendieta**.
+
+ 
+
+ Soy estudiante de **Educación Artística** en la **Universidad Autónoma de Bellas Artes**.
+
+ 
+
+ ¡Mucho gusto! 
 <!--
 **marialuzmendieta/marialuzmendieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
