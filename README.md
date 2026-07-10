@@ -7,7 +7,7 @@ Mi nombre es **María Luz Mendieta**.
 
  
 
- Soy estudiante de **Educación Artística** en la **Universidad Autónoma de Bellas Artes**.
+ Soy Bachiller de **Educación Artística** en la **Universidad Nacional Autónoma de Bellas Artes del Perú**.
 
  
 
