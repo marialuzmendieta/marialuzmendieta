@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy María Luz Mendieta de la Cruz 👋</h1>
+<h1 align="center">¡Hola! Soy María Luz Mendieta De la Cruz 👋</h1>
 
 <p align="center">
   <img 
@@ -90,4 +90,4 @@ Me interesa conocer y colaborar con personas y proyectos vinculados con:
 
 ## 📍 Ubicación
 
-Lima, Perú.
+Cañete, Perú.
