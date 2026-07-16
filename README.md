@@ -1,14 +1,21 @@
-# ¡Hola! Soy María Luz Mendieta de la Cruz 👋
+<h1 align="center">¡Hola! Soy María Luz Mendieta de la Cruz 👋</h1>
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
+    width="450"
+    alt="Animación de bienvenida"
+  >
+</p>
 
 Soy bachiller en Educación Artística, artista visual, educadora y mediadora cultural peruana.
 
 Mi experiencia se desarrolla en los campos de las artes visuales, la educación artística, el diseño de experiencias de aprendizaje y la mediación cultural. Me interesan especialmente la autorrepresentación artística, los procesos creativos, la identidad, la memoria y las relaciones entre el arte, la educación y el territorio.
 
 Actualmente curso la Maestría en Docencia Universitaria en la Universidad Nacional Mayor de San Marcos y participo en **Debug Colectiva**, donde continúo aprendiendo sobre investigación, organización de proyectos académicos, herramientas digitales y ciencia abierta.
-
 ## 🎓 Formación
 
-- Bachiller en Educación Artística por la Universidad Nacional Autónoma de Bellas Artes del Perú.
+- Bachiller en Educación Artística por la Universidad Nacional Autónoma Bellas Artes del Perú.
 - Estudiante de la Maestría en Docencia Universitaria en la Universidad Nacional Mayor de San Marcos.
 - Egresada técnica en Computación e Informática.
 
