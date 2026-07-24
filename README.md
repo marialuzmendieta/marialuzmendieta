@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy María Luz Mendieta De la Cruz 👋</h1>
+<h1 align="center">¡Hola! Soy María Luz Mendieta </h1>
 
 <p align="center">
   <img 
