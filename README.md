@@ -63,6 +63,12 @@ Mi participación en Debug Colectiva me permite fortalecer progresivamente mis c
 - Escritura académica.
 - Herramientas digitales aplicadas a la investigación.
 
+🌐 Portafolio académico
+
+He creado una bitácora digital que reúne mi trayectoria, mi investigación de licenciatura y una propuesta educativa basada en ocho experiencias artísticas vinculadas con la identidad, la memoria y el territorio.
+
+<p align="center"> <a href="https://sites.google.com/view/marialuzmendieta/inicio"> <strong>Visitar mi portafolio académico</strong> </a> </p>
+
 ## 📂 ¿Qué compartiré en este perfil?
 
 En este espacio compartiré progresivamente:
@@ -87,6 +93,7 @@ Me interesa conocer y colaborar con personas y proyectos vinculados con:
 - Docencia universitaria.
 - Investigación artística y cualitativa.
 - Proyectos culturales y comunitarios.
+
 
 ## 📍 Ubicación
 
